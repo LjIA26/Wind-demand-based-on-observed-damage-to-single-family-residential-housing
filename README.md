@@ -2,7 +2,7 @@
 
 This project proposes determining the demand experienced by single-family houses after hurricanes by combining visual information from housing facades with deep learning tools. This prediction model is possible because the construction industry develops similar designs for single-family housing.
 
-This was part of the NHERI GSC 2025 AI Challenge on May 2025. We used the model ViTForImageClassification.
+This was part of the NHERI GSC 2025 AI Challenge on May 2025. We used the model ViTForImageClassification. We selected the "Wind Track for single family housing". https://www.designsafe-ci.org/data/browser/public/designsafe.storage.published/PRJ-4186
 
 In this project, we developed an AI-driven framework using deep-learning image classifiers and a Bayesian fusion algorithm to generate probabilistic wind-demand estimates with quantified uncertainty. By building classification tools for determining the damage severity of housing, wall damage and roof damage, it delivers confidence bounds for risk-informed decisions. Future work will integrate adaptive fusion strategies, and a broader range of building types to strengthen residential resilience against extreme wind events.
 

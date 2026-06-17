@@ -1,6 +1,6 @@
 # Uncertainty aware AI-based model to estimate wind demand based on observed damage to single-family residential housing
 
-This project proposes determining the demand experienced by single-family houses after hurricanes by combining visual information from housing facades with deep learning tools. This prediction model is possible because the construction industry develops similar designs for single-family housing.
+This project proposes determining the demand experienced by single-family houses after hurricanes by combining visual information from housing facades with deep learning tools. This prediction model is possible because the construction industry develops similar designs for single-family housing. We used the Saffir-Simpson Hurricane, wind scale due to its mapping from descriptors to damage and wind levels. 
 
 This was part of the NHERI GSC 2025 AI Challenge on May 2025. We used the model ViTForImageClassification. We selected the "Wind Track for single family housing". https://www.designsafe-ci.org/data/browser/public/designsafe.storage.published/PRJ-4186
 

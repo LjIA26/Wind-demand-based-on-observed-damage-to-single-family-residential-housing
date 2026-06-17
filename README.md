@@ -11,4 +11,5 @@ Lissette Iturburu: Conceptuabilization of the framework, coding,  hyperparameter
 
 
 To train the neural networks, we used the data available here: https://github.com/alenjani/hurricane_damage_detection
-<img width="2776" height="1525" alt="image" src="https://github.com/user-attachments/assets/fb574ea0-17b4-45b6-a776-98493172ba00" />
+
+<img width="2776" height="1559" alt="image" src="https://github.com/user-attachments/assets/1cbd4446-3063-42a7-9ead-417799d04ff3" />

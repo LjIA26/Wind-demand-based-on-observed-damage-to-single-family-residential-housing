@@ -1,0 +1,12 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "type": "SoftwareSourceCode",
+    "codeRepository": "git+https://github.com/LjIA26/Wind-demand-based-on-observed-damage-to-single-family-residential-housing",
+    "dateCreated": "2025-05-15",
+    "dateModified": "2026-06-17",
+    "datePublished": "2026-06-17",
+    "description": "This project proposes determining the demand experienced by single-family houses after hurricanes by combining visual information from housing facades with deep learning tools. This prediction model is possible because the construction industry develops similar designs for single-family housing. We used the Saffir-Simpson Hurricane, wind scale due to its mapping from descriptors to damage and wind levels.\n\n",
+    "license": "https://spdx.org/licenses/BSD-3-Clause",
+    "name": "Uncertainty aware AI-based model to estimate wind demand based on observed damage to single-family residential housing",
+    "programmingLanguage": "Python 3"
+}

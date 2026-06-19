@@ -9,7 +9,8 @@ In this project, we developed an AI-driven framework using deep-learning image c
 Contributions:
 Lissette Iturburu: Conceptuabilization of the framework, coding,  hyperparameter tunning, data labelling; Xiaoyu Liu: Conceptuabilization of the framework, hyperparameter tunning, data labelling. Naomi Rahman: hyperparameter tunning, data labelling: Tabitha Gibbs: conceptualizaiton. 
 
-
+Cite:
+Iturburu, L., Liu, X., Rahman, N., & Gibbs, T. (Year). Uncertainty aware AI-based model to estimate wind demand based on observed damage to single-family residential housing. DesignSafe-CI. https://doi.org/10.17603/ds2-ys8y-1n91
 To train the neural networks, we used the data available here: https://github.com/alenjani/hurricane_damage_detection.
 
 <img width="2784" height="1568" alt="image" src="https://github.com/user-attachments/assets/705b5ed1-dc06-4b9d-8275-40a6e5845754" />
